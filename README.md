@@ -22,7 +22,9 @@ This project analyzes the **Best Selling Car Brands in India**, focusing on the 
 
 ## Screenshots
 
-![Screenshot 2025-01-12 231623](https://github.com/user-attachments/assets/45dadf98-e50a-432e-a7d5-d80199b98879)
+
+![Screenshot 2025-01-12 231623](https://github.com/user-attachments/assets/269b7fcb-9ce6-47f1-8552-f0df30b253b5)
+
 
 ## Insights
 
